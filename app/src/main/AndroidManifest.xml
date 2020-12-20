@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.examen">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Pregunta30"></activity>
+        <activity android:name=".Pregunta29" />
+        <activity android:name=".Pregunta28" />
+        <activity android:name=".Pregunta27" />
+        <activity android:name=".Pregunta26" />
+        <activity android:name=".Pregunta25" />
+        <activity android:name=".Pregunta24" />
+        <activity android:name=".Pregunta23" />
+        <activity android:name=".Pregunta22" />
+        <activity android:name=".Pregunta21" />
+        <activity android:name=".Pregunta20" />
+        <activity android:name=".Pregunta19" />
+        <activity android:name=".Pregunta18" />
+        <activity android:name=".Pergunta17" />
+        <activity android:name=".Pregunta16" />
+        <activity android:name=".Pregunta15" />
+        <activity android:name=".Pregunta14" />
+        <activity android:name=".Pregunta13" />
+        <activity android:name=".Pregunta12" />
+        <activity android:name=".Pregunta11" />
+        <activity android:name=".Pregunta10" />
+        <activity android:name=".Pregunta9" />
+        <activity android:name=".Pregunta8" />
+        <activity android:name=".Pregunta7" />
+        <activity android:name=".Pregunta6" />
+        <activity android:name=".Pregunta5" />
+        <activity android:name=".Resultado" />
+        <activity android:name=".Pregunta4" />
+        <activity android:name=".Pregunta3" />
+        <activity android:name=".Pregunta2" />
+        <activity android:name=".Pruebauno" />
+        <activity android:name=".Inicio" />
+        <activity android:name=".Registrar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="email">ejemplo@gmail.com</string>
+    <string name="password">Contraseña</string>
+    <string name="inicio">Iniciar sesion</string>
+    <string name="registrarte">Registrate</string>
+    <string name="titulo">Regalanos tus datos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="listo">Registrarme</string>
+    <string name="canel">Cancelar</string>
+    <string name="in">Iniciar</string>
+
+    <string name="pre1">¿Sistema Operativo que no maneja Interfaz
+Gráfica?
+</string>
+    <string name="a1">Windows 2000</string>
+    <string name="b1">Mac OS</string>
+    <string name="c1"> Unix</string>
+    <string name="sg1">Siguiente</string>
+
+    <string name="pre2">requeisitos para instalar Windows XP</string>
+    <string name="a2">Computadora y teclado</string>
+    <string name="b2">Procesador PII 166 MHz, 64 MB RAM</string>
+    <string name="c2">Procesador PIII 233 MHz, 128 MB RAM</string>
+    <string name="sg2">Siguiente</string>
+
+    <string name="pre3">Configuración válida para la mayoría de los usuarios cuando se instala el sistema operativo?</string>
+    <string name="a3">Tipica</string>
+    <string name="b3">Avanzada</string>
+    <string name="c3">Personalizada</string>
+    <string name="sg3">Siguiente</string>
+
+    <string name="pre4">¿Qué sistema de archivos se utiliza para formatear una partición en Windows 2000 o XP?</string>
+    <string name="a4">NTFS</string>
+    <string name="b4">NFTS</string>
+    <string name="c4">NTSF</string>
+    <string name="sg4">Siguiente</string>
+
+    <string name="pre5">¿Qué tecla se presiona, para cancelar la instalación de Windows?</string>
+    <string name="a5">F3</string>
+    <string name="b5">F8</string>
+    <string name="c5">Enter</string>
+    <string name="sg5">Siguiente</string>
+
+    <string name="pre6">¿Qué tecla se presiona, para crear una partición en un espacio no particionado?</string>
+    <string name="a6">C</string>
+    <string name="b6">F8</string>
+    <string name="c6">D</string>
+    <string name="sg6">Siguiente</string>
+
+    <string name="pre7">El sistema Operativo se debe encargar de comunicar a los dispositivos periférico, cuando el usuario así lo requiera.</string>
+    <string name="a7">Relacionar dispositivos.</string>
+    <string name="b7"> Organizar datos</string>
+    <string name="c7">Accesibilidad</string>
+    <string name="sg7">Siguiente</string>
+
+    <string name="pre8">Clasificación de los sistemas operativos por la administración de tareas:</string>
+    <string name="a8">Monotarea y multitarea</string>
+    <string name="b8">Monousuario y multiusuario</string>
+    <string name="c8">Centralizado y distribuido</string>
+    <string name="sg8">Siguiente</string>
+
+    <string name="pre9">Clasificación de los sistemas operativos por Administración de usuarios:</string>
+    <string name="a9">Monotarea y multitarea</string>
+    <string name="b9">Monousuario y multiusuario</string>
+    <string name="c9">Centralizado y distribuido</string>
+    <string name="sg9">Siguiente</string>
+
+    <string name="pre11">Los Componentes de los sistemas operativos de red habituales son:</string>
+    <string name="a11">multitarea, monousuario</string>
+    <string name="b11">Memoria RAM, Antivirus, Internet</string>
+    <string name="c11">Servidores, clientes, dominios</string>
+    <string name="sg11">Siguiente</string>
+
+
+    <string name="pre12">Un sistema operativo de red, también llamado “NOS” del inglés:</string>
+    <string name="a12">News and Olds System</string>
+    <string name="b12">Network Operating System</string>
+    <string name="c12">Number and Otther Signs</string>
+    <string name="sg12">Siguiente</string>
+
+
+    <string name="pre10">Clasificación de los sistemas operativos por Manejo de recursos:</string>
+    <string name="a10">Monotarea y multitarea</string>
+    <string name="b10">Monousuario y multiusuario</string>
+    <string name="c10">Centralizado y distribuido</string>
+    <string name="sg10">Siguiente</string>
+
+
+    <string name="pre13">¿Cuál de los siguientes no es un sistema operativo?</string>
+    <string name="a13">Linux</string>
+    <string name="b13">Windows 2000 server</string>
+    <string name="c13">Kernel</string>
+    <string name="sg13">Siguiente</string>
+
+
+    <string name="pre14">Las aplicaciones en Windows reciben el nombre de:</string>
+    <string name="a14">Archivos</string>
+    <string name="b14">Ficheros</string>
+    <string name="c14">Programas</string>
+    <string name="sg14">Siguiente</string>
+
+    <string name="pre15">Una edición de windows 2000 es?</string>
+    <string name="a15">Windows 2000 server</string>
+    <string name="b15">windows vista</string>
+    <string name="c15">windows NT</string>
+    <string name="sg15">Siguiente</string>
+
+    <string name="pre16">El núcleo del sistema operativo Linux es llamado MS-Dos</string>
+    <string name="a16">Verdader</string>
+    <string name="b16">Falso</string>
+    <string name="c16"></string>
+    <string name="sg16">Siguiente</string>
+
+    <string name="pre17">Un sistema operativo es el programa que oculta la verdad del hardware al programador y presenta una vista simple y agradable de los archivos nominados que pueden leerse y escribirse.</string>
+    <string name="a17">Verdadero</string>
+    <string name="b17">Falso</string>
+    <string name="c17"></string>
+    <string name="sg17">Siguiente</string>
+
+    <string name="pre18">Las versiones de GNU/Linux se las conoce con el nombre de:</string>
+    <string name="a18">actualizaciones</string>
+    <string name="b18">distribuciones</string>
+    <string name="c18">variaciones</string>
+    <string name="sg18">Siguiente</string>
+
+    <string name="pre19">Cuál de las siguientes no es una característica del sistema operativo Gnu/Linux</string>
+    <string name="a19">Abierto</string>
+    <string name="b19">De pago</string>
+    <string name="c19">Gratuito</string>
+    <string name="sg19">Siguiente</string>
+
+    <string name="pre20"> La última versión de Windows es:</string>
+    <string name="a20">Windows XP Profesional</string>
+    <string name="b20">Windows Vista</string>
+    <string name="c20">Nada de los anterior</string>
+    <string name="sg20">Siguiente</string>
+
+    <string name="pre21">Clasificacion del software</string>
+    <string name="a21">Lenguaje de programacion</string>
+    <string name="b21">Writter, impress, linux </string>
+    <string name="c21">Aplicación, desarrollo, sistema</string>
+    <string name="sg21">Siguiente</string>
+
+    <string name="pre22">Unidad minima de informacion de la computadora:</string>
+    <string name="a22">Gygabyte</string>
+    <string name="b22">byte</string>
+    <string name="c22">Bit</string>
+    <string name="sg22">Siguiente</string>
+
+    <string name="pre23">¿Que es un byte?</string>
+    <string name="a23">11100</string>
+    <string name="b23">Conjunto de 1 y 0</string>
+    <string name="c23">Conjunto de 8 bits</string>
+    <string name="sg23">Siguiente</string>
+
+    <string name="pre24">¿Qué lenguaje utilizan las computadoras?</string>
+    <string name="a24">Codigo Asciil</string>
+    <string name="b24">Lenguaje binario</string>
+    <string name="c24">Lenguaje hexadecimal</string>
+    <string name="sg24">Siguiente</string>
+
+    <string name="pre25">¿Qué es linux?</string>
+    <string name="a25">Navegador de internet</string>
+    <string name="b25">Procesador de textos</string>
+    <string name="c25">Sistema operativo</string>
+    <string name="sg25">Siguiente</string>
+
+    <string name="pre26">Familias importantes de sistema operativo</string>
+    <string name="a26">Windows, linux, Mac – os</string>
+    <string name="b26">Mandriva, Unix, Linux</string>
+    <string name="c26">Windows, Unix, Mandriva</string>
+    <string name="sg26">Siguiente</string>
+
+    <string name="pre27">Un sistema operativo es:</string>
+    <string name="a27">Hardware</string>
+    <string name="b27">Software</string>
+    <string name="c27">Freeware</string>
+    <string name="sg27">Siguiente</string>
+
+    <string name="pre28">Tipos de interfaz del sistema operativo</string>
+    <string name="a28">Ventanas y menus</string>
+    <string name="b28">Grafica y modo texto</string>
+    <string name="c28">omandos y cuadros de dialogo</string>
+    <string name="sg28">Siguiente</string>
+
+    <string name="pre29">Extenciones de archivos de imagen</string>
+    <string name="a29">jgp, .jpej, .gif</string>
+    <string name="b29">mp3, .mp4, .avi</string>
+    <string name="c29">.doc, .odt, .txt</string>
+    <string name="sg29">Siguiente</string>
+
+    <string name="pre30">¿ A que tipo de software pertenece el sistema operativo?</string>
+    <string name="a30">Desarrollo</string>
+    <string name="b30">Sistema</string>
+    <string name="c30"> Aplicacion</string>
+    <string name="sg30">Siguiente</string>
+
+
+    <string name="resul">Resultado</string>
+    <string name="intento">Volver a intentarlo</string>
+
+
+</resources>
